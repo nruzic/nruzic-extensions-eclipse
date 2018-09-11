@@ -1,0 +1,1 @@
+= My extensions to the Eclipse IDE and other eclipse.org products
